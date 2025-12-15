@@ -72,6 +72,10 @@ margin: 0 auto;
   border-radius:100px;
 }
 
+.img-border {
+  border: 3px solid black;
+}
+
 /* #contact-btn {
   background-color:darkgreen;
   border-radius: 5px;
